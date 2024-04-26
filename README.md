@@ -1,10 +1,10 @@
 # Badges SonarQube
 
-[![Quality Gate Status](http://192.168.1.24:9000/api/project_badges/measure?project=rui_reactJS&metric=alert_status&token=sqb_87b995633dce766fcfeee80bc6e4d66990ea2855)](http://192.168.1.24:9000/dashboard?id=rui_reactJS)
-[![Reliability Rating](http://192.168.1.24:9000/api/project_badges/measure?project=rui_reactJS&metric=reliability_rating&token=sqb_87b995633dce766fcfeee80bc6e4d66990ea2855)](http://192.168.1.24:9000/dashboard?id=rui_reactJS)
+[![Quality Gate Status](http://192.168.1.24:9000/api/project_badges/measure?project=rui_reactJS&metric=alert_status&token=sqb_87b995633dce766fcfeee80bc6e4d66990ea2855)](http://192.168.1.24:9000/dashboard?id=rui_reactJS) 
+[![Reliability Rating](http://192.168.1.24:9000/api/project_badges/measure?project=rui_reactJS&metric=reliability_rating&token=sqb_87b995633dce766fcfeee80bc6e4d66990ea2855)](http://192.168.1.24:9000/dashboard?id=rui_reactJS) 
 [![Maintainability Rating](http://192.168.1.24:9000/api/project_badges/measure?project=rui_reactJS&metric=sqale_rating&token=sqb_87b995633dce766fcfeee80bc6e4d66990ea2855)](http://192.168.1.24:9000/dashboard?id=rui_reactJS)
 
-**Serveur Jenkins : [http://localhost:3000](http://g2rformation3.fr/)**
+**Serveur Jenkins : [http://g2rformation3.fr/](http://g2rformation3.fr/)**
 
 # Getting Started with Create React App
 
